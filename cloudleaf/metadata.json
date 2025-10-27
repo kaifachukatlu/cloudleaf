@@ -1,0 +1,5 @@
+{
+  "name": "CloudLeaf",
+  "description": "A platform to simulate the loaning and exchanging of digital copies of public domain or open-license books. It features a token-based access simulation, a community trust and rating system, and AI-powered book summaries.",
+  "requestFramePermissions": []
+}
